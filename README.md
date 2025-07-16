@@ -2,9 +2,9 @@
 
 ### 🔬 Data Analyst | 📊 Business Enthusiast
 
-I'm a data analyst and an aspiring data scientist. I am currently studying for my M.S. in Data Science at the University of California, Berkeley.
+Data Analyst with supply chain management background and currently pursuing Master's in Data Science at UC Berkeley. Experienced in transforming business challenges into data-driven solutions, with expertise in Python, Tableau, and business intelligence.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technical Skills
 
 **Programming Languages:**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -20,6 +20,11 @@ I'm a data analyst and an aspiring data scientist. I am currently studying for m
 - Jupyter Notebooks, RStudio
 - Git, GitHub
 - Excel, Google Sheets
+
+**Domain Knowledge:**
+- Supply Chain Analytic
+- Customer Analytics
+- Business Intelligence
 
 ### 🚀 Featured Project
 
